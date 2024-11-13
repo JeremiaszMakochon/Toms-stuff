@@ -25,3 +25,6 @@ height: 144px; width: auto; background-position: top; margin-top: 25px; margin-b
 .spinbox2 {background-image: url("maxwell-cat.gif"); background-color: aqua;
 height: 144px; width: auto; background-position: top; margin-top: 25px; margin-bottom: 25px;
 }
+.link1:visited {color: purple;}
+.link2:visited {color: purple;}
+.link3:visited {color: purple;}
