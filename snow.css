@@ -12,13 +12,17 @@ height: 144px; width: auto; background-position: top; margin-top: 25px; margin-b
 }
 .link2 {color: grey; font-size: xx-large;
 }
-.link3 {color: grey; font-size: xx-large; margin-bottom: 50px;
+.link3 {color: grey; font-size: xx-large;
+}
+.link4 {color: grey; font-size: xx-large; margin-bottom: 50px;
 }
 .link1:hover {color: rgb(240, 116, 116);
 }
-.link2:hover:hover {color: rgb(116, 124, 240);
+.link2:hover {color: rgb(116, 124, 240);
 }
-.link3:hover:hover:hover:hover {color: rgb(240, 190, 116);
+.link3:hover {color: rgb(240, 190, 116);
+}
+.link4:hover {color: rgb(0, 167, 50);
 }
 .textbox2 {font-size: larger; margin-top: 50px; margin-bottom: 50px;
 }
@@ -28,3 +32,4 @@ height: 144px; width: auto; background-position: top; margin-top: 25px; margin-b
 .link1:visited {color: purple;}
 .link2:visited {color: purple;}
 .link3:visited {color: purple;}
+.link4:visited {color: purple;}
